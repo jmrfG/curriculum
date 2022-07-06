@@ -130,4 +130,4 @@ To run the Node console, open up your terminal and type `node`. Type `.exit` to 
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
-*   It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+*   [This Computerphile video](https://www.youtube.com/watch?v=whwa7ua_RbA) discusses a lot of Computer Science fundamentals linked to the structure of base JavaScript and Node.js.
